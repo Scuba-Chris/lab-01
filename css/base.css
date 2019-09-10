@@ -1,0 +1,10 @@
+* {
+    outline: 1px dotted orange;
+    box-sizing: border-box;
+    text-align: center;
+}
+
+body {
+    width: 480px;
+    margin: auto;
+}
