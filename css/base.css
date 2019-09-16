@@ -1,0 +1,11 @@
+* {
+    box-sizing: border-box;
+    text-align: center;
+}
+
+body {
+    margin: auto;
+    display: grid;
+    grid-template-columns: 5, 96px;
+    grid-template-rows: 18, 60px;
+}
